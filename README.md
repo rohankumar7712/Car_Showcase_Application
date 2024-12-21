@@ -15,8 +15,9 @@
 
     The automotive industry has evolved with online platforms becoming the primary means to showcase vehicles. Buyers expect a detailed, responsive, and visually engaging interface to explore cars and make 
     decisions.. The MERN stack is widely used in real-world web applications, and this project offers students the opportunity to build a scalable and responsive solution.
-      Scope:
-      The project will cover:
+
+    Scope:
+   
       •	Developing a React-based frontend to display car data dynamically.
       •	Building a Node.js backend with RESTful APIs to manage car data.
       •	Utilizing MongoDB to store data such as car specifications, prices, and images.
@@ -24,14 +25,19 @@
       •	Creating a responsive design to ensure compatibility with devices of all sizes.
       •	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
    
-3. Problem Statement
-   Problem:
-          Car enthusiasts and buyers often struggle to find an interactive platform with detailed specifications and easy navigation for browsing and comparing cars.
-   Importance:
-              Creating a feature-rich car showcase platform addresses this gap and provides an enhanced user experience, helping potential buyers explore cars efficiently. For developers, this project highlights       the critical aspects of building real-world, full-stack web applications.
+2. Problem Statement:
    
-4. Objectives
-   The project aims to achieve the following objectives:
+   Problem:
+   
+   Car enthusiasts and buyers often struggle to find an interactive platform with detailed specifications and easy navigation for browsing and comparing cars.
+   
+   Importance:
+   
+   Creating a feature-rich car showcase platform addresses this gap and provides an enhanced user experience, helping potential buyers explore cars efficiently. For developers, this project highlights the 
+   critical aspects of building real-world, full-stack web applications.
+   
+3. Objectives
+   
     o	Build an interactive and responsive UI using React, with components for car browsing, filtering, sorting, and comparison.
     o	Create scalable RESTful APIs using Node.js and Express for managing car data (CRUD operations).
     o	Use MongoDB to store car details, including specifications, images, prices, and availability.
@@ -40,7 +46,8 @@
     o	Implement user-friendly car comparison tools to compare specifications side by side.
     o	Deploy the application on a cloud service for public access.
    
-5. Methodology
+4. Methodology
+   
    1.	Data Collection:
       o	Gather sample car data with specifications such as make, model, year, price, engine type, and images.
    2.	Tools/Technologies:
@@ -56,20 +63,24 @@
       o	Add features like car filtering, sorting, searching, and comparisons.
       o	Perform testing and debugging to ensure functionality and performance.
      	
-6. Project Plan:
-   a)Timeline:
+5. Project Plan:
+   
+    Timeline:
+   
      Phase	     Tasks
      Phase 1	   Setup environment, requirements gathering, database design
      Phase 2	   Develop backend APIs with Express and integrate MongoDB
      Phase 3	   Build React frontend with dynamic components
      Phase 4	   Add features (filtering, sorting, car comparison) and testing
      Phase 5	   Final integration, deployment, and documentation
+   
    b) Milestones:
       •	Backend APIs completed with full CRUD functionality.
       •	React frontend developed and connected to the backend.
       •	Application deployed with a demo-ready version.
    
 7. Expected Deliverables:
+   
    1.	Codebase:
       o	Complete MERN stack project with clean, modular code.
    2.	Database Design:
