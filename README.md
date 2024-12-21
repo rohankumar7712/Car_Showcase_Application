@@ -1,6 +1,7 @@
 # Car_Showcase_Application
 
 1. Introduction:
+   
     Purpose:
             The purpose of this project is to create a Car Showcase Application that provides users with a visually appealing and highly functional platform to browse and interact with car data.
       This project is assigned to:
@@ -18,13 +19,13 @@
       •	Creating a responsive design to ensure compatibility with devices of all sizes.
       •	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
    
-2. Problem Statement
+3. Problem Statement
    Problem:
           Car enthusiasts and buyers often struggle to find an interactive platform with detailed specifications and easy navigation for browsing and comparing cars.
    Importance:
               Creating a feature-rich car showcase platform addresses this gap and provides an enhanced user experience, helping potential buyers explore cars efficiently. For developers, this project highlights       the critical aspects of building real-world, full-stack web applications.
    
-3. Objectives
+4. Objectives
    The project aims to achieve the following objectives:
     o	Build an interactive and responsive UI using React, with components for car browsing, filtering, sorting, and comparison.
     o	Create scalable RESTful APIs using Node.js and Express for managing car data (CRUD operations).
@@ -34,7 +35,7 @@
     o	Implement user-friendly car comparison tools to compare specifications side by side.
     o	Deploy the application on a cloud service for public access.
    
-4. Methodology
+5. Methodology
    1.	Data Collection:
       o	Gather sample car data with specifications such as make, model, year, price, engine type, and images.
    2.	Tools/Technologies:
@@ -50,7 +51,7 @@
       o	Add features like car filtering, sorting, searching, and comparisons.
       o	Perform testing and debugging to ensure functionality and performance.
      	
-5. Project Plan:
+6. Project Plan:
    a)Timeline:
      Phase	     Tasks
      Phase 1	   Setup environment, requirements gathering, database design
@@ -63,7 +64,7 @@
       •	React frontend developed and connected to the backend.
       •	Application deployed with a demo-ready version.
    
-6. Expected Deliverables:
+7. Expected Deliverables:
    1.	Codebase:
       o	Complete MERN stack project with clean, modular code.
    2.	Database Design:
