@@ -68,7 +68,7 @@ Gather sample car data, including make, model, year, price, engine type, and ima
 ## Project Plan
 
 ### Timeline
-|------------|------------------------------------------------------------|
+
 | Phase      | Tasks                                                      |
 |------------|------------------------------------------------------------|
 | Phase 1    | Environment setup, requirements gathering, database design |
@@ -76,7 +76,7 @@ Gather sample car data, including make, model, year, price, engine type, and ima
 | Phase 3    | Build React frontend with dynamic components               |
 | Phase 4    | Add features (filtering, sorting, comparisons), testing    |
 | Phase 5    | Final integration, deployment, and documentation           |
-|------------|------------------------------------------------------------|
+
 
 ### Milestones
 - Backend APIs with full CRUD functionality.
