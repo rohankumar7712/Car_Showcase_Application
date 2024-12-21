@@ -49,46 +49,56 @@
 4. Methodology
    
    1.	Data Collection:
-      o	Gather sample car data with specifications such as make, model, year, price, engine type, and images.
-   2.	Tools/Technologies:
-      o	Frontend: React for building a dynamic user interface.
-      o	Backend: Node.js with Express for handling server-side logic and APIs.
-      o	Database: MongoDB for storing car data.
-      o	Additional tools: Postman (API testing), Git/GitHub (version control), and Cloud Services (optional for deployment).
-   3.	Experimentation/Implementation:
-      o	Setup the MERN stack development environment.
-      o	Design and implement the MongoDB database schema.
-      o	Create backend RESTful APIs using Node.js and Express for CRUD operations.
-      o	Develop a responsive frontend using React to fetch and display data.
-      o	Add features like car filtering, sorting, searching, and comparisons.
-      o	Perform testing and debugging to ensure functionality and performance.
+      
+      Gather sample car data with specifications such as make, model, year, price, engine type, and images.
      	
+   3.	Tools/Technologies:
+      
+      1.	Frontend: React for building a dynamic user interface.
+      2.	Backend: Node.js with Express for handling server-side logic and APIs.
+      3.	Database: MongoDB for storing car data.
+      4.	Additional tools: Postman (API testing), Git/GitHub (version control), and Cloud Services (optional for deployment).
+
+   3.	Experimentation/Implementation:
+      
+      1.	Setup the MERN stack development environment.
+      2.	Design and implement the MongoDB database schema.
+      3.	Create backend RESTful APIs using Node.js and Express for CRUD operations.
+      4.	Develop a responsive frontend using React to fetch and display data.
+      5.	Add features like car filtering, sorting, searching, and comparisons.
+      6.	Perform testing and debugging to ensure functionality and performance.
+
 5. Project Plan:
    
     Timeline:
    
-     Phase	     Tasks
-     Phase 1	   Setup environment, requirements gathering, database design
-     Phase 2	   Develop backend APIs with Express and integrate MongoDB
-     Phase 3	   Build React frontend with dynamic components
-     Phase 4	   Add features (filtering, sorting, car comparison) and testing
-     Phase 5	   Final integration, deployment, and documentation
+     Phase 1 :Setup environment, requirements gathering, database design
+   
+     Phase 2 :Develop backend APIs with Express and integrate MongoDB
+   
+     Phase 3 :Build React frontend with dynamic components
+   
+     Phase 4 :Add features (filtering, sorting, car comparison) and testing
+   
+     Phase 5 :Final integration, deployment, and documentation
+   
    
    b) Milestones:
-      •	Backend APIs completed with full CRUD functionality.
-      •	React frontend developed and connected to the backend.
-      •	Application deployed with a demo-ready version.
    
+      1.	Backend APIs completed with full CRUD functionality.
+      2.	React frontend developed and connected to the backend.
+      3.	Application deployed with a demo-ready version.
+
 7. Expected Deliverables:
    
    1.	Codebase:
-      o	Complete MERN stack project with clean, modular code.
+      	Complete MERN stack project with clean, modular code.
    2.	Database Design:
-      o	MongoDB schema and sample car data.
+      	MongoDB schema and sample car data.
    3.	Presentation:
-      o	Live demo of the application showcasing its features. 
-      o	Explanation of the development process and technical choices.
+      	Live demo of the application showcasing its features. 
+      	Explanation of the development process and technical choices.
    4.	Documentation:
-      o	A detailed project report with sections for the problem statement, methodology, architecture, and challenges encountered.
+      	A detailed project report with sections for the problem statement, methodology, architecture, and challenges encountered.
 
 
