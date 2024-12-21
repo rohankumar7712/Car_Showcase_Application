@@ -20,12 +20,11 @@
    
      1.	Developing a React-based frontend to display car data dynamically.
      2.	Building a Node.js backend with RESTful APIs to manage car data.
-3.	Utilizing MongoDB to store data such as car specifications, prices, and images.
-4.	Implementing interactive features like search, filtering, sorting, and car comparison.
-5.	Creating a responsive design to ensure compatibility with devices of all sizes.
-6.	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
+     3.	Utilizing MongoDB to store data such as car specifications, prices, and images.
+     4.	Implementing interactive features like search, filtering, sorting, and car comparison.
+     5.	Creating a responsive design to ensure compatibility with devices of all sizes.
+     6.	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
 
-   
 2. Problem Statement:
    
    Problem:
@@ -37,16 +36,16 @@
    Creating a feature-rich car showcase platform addresses this gap and provides an enhanced user experience, helping potential buyers explore cars efficiently. For developers, this project highlights the 
    critical aspects of building real-world, full-stack web applications.
    
-3. Objectives
+3. Objectives:
    
-    Build an interactive and responsive UI using React, with components for car browsing, filtering, sorting, and comparison.
-    Create scalable RESTful APIs using Node.js and Express for managing car data (CRUD operations).
-    Use MongoDB to store car details, including specifications, images, prices, and availability.
-    Connect the frontend and backend seamlessly to enable dynamic updates and real-time data fetching.
-    Provide advanced search and filtering options (e.g., by brand, price range, fuel type).
-    Implement user-friendly car comparison tools to compare specifications side by side.
-    Deploy the application on a cloud service for public access.
-   
+   1.	Build an interactive and responsive UI using React, with components for car browsing, filtering, sorting, and comparison.
+   2.	Create scalable RESTful APIs using Node.js and Express for managing car data (CRUD operations).
+   3.	Use MongoDB to store car details, including specifications, images, prices, and availability.
+   4.	Connect the frontend and backend seamlessly to enable dynamic updates and real-time data fetching.
+   5.	Provide advanced search and filtering options (e.g., by brand, price range, fuel type).
+   6.	Implement user-friendly car comparison tools to compare specifications side by side.
+   7.	Deploy the application on a cloud service for public access.
+
 4. Methodology
    
    1.	Data Collection:
