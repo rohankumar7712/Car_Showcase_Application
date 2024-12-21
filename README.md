@@ -7,9 +7,9 @@
     The purpose of this project is to create a Car Showcase Application that provides users with a visually appealing and highly functional platform to browse and interact with car data.
     This project is assigned to:
    
-    1.	Offer hands-on experience in full-stack development using the MERN stack (MongoDB, Express, React, Node.js).
-    2.	Teach students how to build scalable, responsive, and user-centric web applications.
-    3.	Enhance problem-solving skills by integrating frontend and backend technologies seamlessly.
+      1.	Offer hands-on experience in full-stack development using the MERN stack (MongoDB, Express, React, Node.js).
+      2.	Teach students how to build scalable, responsive, and user-centric web applications.
+      3.	Enhance problem-solving skills by integrating frontend and backend technologies seamlessly.
    
     Background:
 
