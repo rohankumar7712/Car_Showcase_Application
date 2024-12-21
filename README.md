@@ -38,13 +38,13 @@
    
 3. Objectives
    
-    o	Build an interactive and responsive UI using React, with components for car browsing, filtering, sorting, and comparison.
-    o	Create scalable RESTful APIs using Node.js and Express for managing car data (CRUD operations).
-    o	Use MongoDB to store car details, including specifications, images, prices, and availability.
-    o	Connect the frontend and backend seamlessly to enable dynamic updates and real-time data fetching.
-    o	Provide advanced search and filtering options (e.g., by brand, price range, fuel type).
-    o	Implement user-friendly car comparison tools to compare specifications side by side.
-    o	Deploy the application on a cloud service for public access.
+    Build an interactive and responsive UI using React, with components for car browsing, filtering, sorting, and comparison.
+    Create scalable RESTful APIs using Node.js and Express for managing car data (CRUD operations).
+    Use MongoDB to store car details, including specifications, images, prices, and availability.
+    Connect the frontend and backend seamlessly to enable dynamic updates and real-time data fetching.
+    Provide advanced search and filtering options (e.g., by brand, price range, fuel type).
+    Implement user-friendly car comparison tools to compare specifications side by side.
+    Deploy the application on a cloud service for public access.
    
 4. Methodology
    
