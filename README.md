@@ -1,13 +1,13 @@
 # Car_Showcase_Application
 
 1. Introduction:
-    a)Purpose:
+    Purpose:
             The purpose of this project is to create a Car Showcase Application that provides users with a visually appealing and highly functional platform to browse and interact with car data.
       This project is assigned to:
         1.	Offer hands-on experience in full-stack development using the MERN stack (MongoDB, Express, React, Node.js).
         2.	Teach students how to build scalable, responsive, and user-centric web applications.
         3.	Enhance problem-solving skills by integrating frontend and backend technologies seamlessly.
-    b)Background:
+    Background:
               The automotive industry has evolved with online platforms becoming the primary means to showcase vehicles. Buyers expect a detailed, responsive, and visually engaging interface to explore cars and         make decisions.. The MERN stack is widely used in real-world web applications, and this project offers students the opportunity to build a scalable and responsive solution.
       Scope:
       The project will cover:
@@ -19,9 +19,9 @@
       •	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
    
 2. Problem Statement
-   a)Problem:
+   Problem:
           Car enthusiasts and buyers often struggle to find an interactive platform with detailed specifications and easy navigation for browsing and comparing cars.
-   b)Importance:
+   Importance:
               Creating a feature-rich car showcase platform addresses this gap and provides an enhanced user experience, helping potential buyers explore cars efficiently. For developers, this project highlights       the critical aspects of building real-world, full-stack web applications.
    
 3. Objectives
