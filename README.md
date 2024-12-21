@@ -18,12 +18,13 @@
 
     Scope:
    
-      •	Developing a React-based frontend to display car data dynamically.
-      •	Building a Node.js backend with RESTful APIs to manage car data.
-      •	Utilizing MongoDB to store data such as car specifications, prices, and images.
-      •	Implementing interactive features like search, filtering, sorting, and car comparison.
-      •	Creating a responsive design to ensure compatibility with devices of all sizes.
-      •	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
+     1.	Developing a React-based frontend to display car data dynamically.
+     2.	Building a Node.js backend with RESTful APIs to manage car data.
+3.	Utilizing MongoDB to store data such as car specifications, prices, and images.
+4.	Implementing interactive features like search, filtering, sorting, and car comparison.
+5.	Creating a responsive design to ensure compatibility with devices of all sizes.
+6.	Deploying the application on a cloud platform for live usage (e.g., AWS, Heroku, or Vercel).
+
    
 2. Problem Statement:
    
